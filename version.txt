@@ -1,0 +1,6 @@
+*** 1.0.1 ***
+- removed grouping of smooth_sandstone and smooth_red_sandstone
+
+*** 1.0.0 ***
+- added recipe for smooth_sandstone
+- added recipe for smooth_red_sandstone
