@@ -1,12 +1,16 @@
 ﻿{
     "type": "crafting_shaped",
     "pattern": [
-        "##",
-        "##"
+        "  #",
+        "SS ",
+        "SS "
     ],
     "key": {
         "#": {
-            "item": "minecraft:cut_red_sandstone"
+            "item": "minecraft:paper"
+        },
+        "S": {
+            "item": "minecraft:red_sandstone"
         }
     },
     "result": {

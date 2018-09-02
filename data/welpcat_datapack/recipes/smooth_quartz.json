@@ -1,20 +1,20 @@
-﻿{
+{
     "type": "crafting_shaped",
     "pattern": [
         "  #",
-        "SS ",
-        "SS "
+        "QQ ",
+        "QQ "
     ],
     "key": {
         "#": {
             "item": "minecraft:paper"
         },
-        "S": {
-            "item": "minecraft:sandstone"
+        "Q": {
+            "item": "minecraft:quartz_block"
         }
     },
     "result": {
-        "item": "minecraft:smooth_sandstone",
+        "item": "minecraft:smooth_quartz",
         "count": 4
     }
 }

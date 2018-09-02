@@ -1,3 +1,8 @@
+*** 1.1.0 ***
+- recipe for smooth_sandstone and smooth_red_sandstone now uses 4 (red) sandstone + paper
+- added recipe for smooth_stone
+- added recipe for smooth_quartz
+
 *** 1.0.1 ***
 - removed grouping of smooth_sandstone and smooth_red_sandstone
 

@@ -1,4 +1,4 @@
-﻿{
+{
     "type": "crafting_shaped",
     "pattern": [
         "  #",
@@ -10,11 +10,11 @@
             "item": "minecraft:paper"
         },
         "S": {
-            "item": "minecraft:sandstone"
+            "item": "minecraft:stone"
         }
     },
     "result": {
-        "item": "minecraft:smooth_sandstone",
+        "item": "minecraft:smooth_stone",
         "count": 4
     }
 }
