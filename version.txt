@@ -1,3 +1,11 @@
+*** 1.3.0 ***
+- added recipe for gunpowder
+- deleted recipe for inc sacs that use charcoal
+- recipe for ink sacs now use a water bucket and gunpowder
+
+*** 1.2.0 ***
+- added recipes for ink sacs
+
 *** 1.1.0 ***
 - recipe for smooth_sandstone and smooth_red_sandstone now uses 4 (red) sandstone + paper
 - added recipe for smooth_stone

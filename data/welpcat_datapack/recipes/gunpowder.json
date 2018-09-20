@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shaped",
+    "pattern": [
+        "#",
+        "C"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "C": {
+            "item": "minecraft:coal_block"
+        }
+    },
+    "result": {
+        "item": "minecraft:gunpowder",
+        "count": 8
+    }
+}

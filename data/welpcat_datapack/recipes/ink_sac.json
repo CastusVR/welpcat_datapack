@@ -7,7 +7,7 @@
     ],
     "key": {
         "#": {
-            "item": "minecraft:coal"
+            "item": "minecraft:gunpowder"
         },
         "W": {
             "item": "minecraft:water_bucket"
@@ -16,6 +16,5 @@
     "result": {
         "item": "minecraft:ink_sac",
         "count": 8
-    },
-    "group": "inksac"
+    }
 }
